@@ -1,0 +1,15 @@
+---
+object: set
+id: ff711291-dc0f-4b9a-bd3d-663428550d55
+code: phuk
+name: Hachette UK
+uri: https://api.scryfall.com/sets/ff711291-dc0f-4b9a-bd3d-663428550d55
+scryfall_uri: https://scryfall.com/sets/phuk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aphuk&unique=prints
+released_at: '2006-01-01'
+set_type: box
+card_count: 60
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/phuk.svg?1694404800
